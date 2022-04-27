@@ -1,2 +1,1 @@
-# KILLA
-My Personal Repository
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DejaVu+Sans+Mono&size=16&color=A6A2F7&background=80DF9400&lines=%22Light+from+here+shall+illuminate+the+entire+universe%22;Mission%2C+Vision%2C+Quality+Policy)](https://git.io/typing-svg)
