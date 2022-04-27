@@ -7,10 +7,12 @@ I'm from Vietnam, I'm trying to embark on my post-career. I would love to learn 
 
 Skills: C / Java/ Python
 
-- 🔭 I’m currently working on this page. 
+#### I’m currently working on this page:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Killasneverdie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vinh.vophu.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vophu_v/)  
 
+#### Contact me:
+:email: phuvinh113@gmail.com
 
 
 
