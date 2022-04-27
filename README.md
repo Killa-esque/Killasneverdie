@@ -4,7 +4,7 @@
 #### A freshman in the area of Information Technology
 I'm from Vietnam, I'm trying to embark on my post-career. I would love to learn new things and try to reach my peak someday be able.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killasneverdie)](https://github.com/anuraghazra/github-readme-stats)
+
 Skills: C / Java/ Python
 
 - 🔭 I’m currently working on this page. 
