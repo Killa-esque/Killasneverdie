@@ -1,4 +1,4 @@
-###Hi there, I'm Vo Phu Vinh - aka Killa
+### Hi there, I'm Vo Phu Vinh - aka Killa :wave:
 
 ##I'm just a freshman at TDTU University, which is located in Ho Chi Minh, Vietnam.
 
