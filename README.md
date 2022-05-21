@@ -1,6 +1,6 @@
 <p align="center"><img class= "center" src= "https://media3.giphy.com/media/yue5RmlTYopQHShVvM/giphy.gif" width= "200"></p>
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="50">	Light from here shall illuminate the multi-verses  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="50"></h1>
+<h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="50">	[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=575&lines=Light+from+here+shall+illuminate+the+multi-verses)](https://git.io/typing-svg)  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="50"></h1>
 
 ## Hi there 👋, I'm Vo Phu Vinh
 ### A freshman in the area of Information Technology
