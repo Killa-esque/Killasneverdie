@@ -1,4 +1,4 @@
-<p align="center"><img class= "center" src= "https://media3.giphy.com/media/yue5RmlTYopQHShVvM/giphy.gif" width= "200"></p>
+<p align="center"><img class= "center" src= "https://media1.giphy.com/media/TjdjGJc9ti9RIFk0IJ/giphy.gif" width= "200"></p>
 
 <h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70">	Mission, Vision, Quality Policy  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70"></h1>
 
