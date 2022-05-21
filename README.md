@@ -1,6 +1,6 @@
 <p align="center"><img class= "center" src= "https://media3.giphy.com/media/yue5RmlTYopQHShVvM/giphy.gif" width= "200"></p>
 
-<h1 align="center">	Light from here shall illuminate the multi-verses  <img src="https://media3.giphy.com/media/D7ZXU6eiZ4V7AEsOjV/giphy.gif?cid=ecf05e47sgrtdkxqmfv6rjumoji8bphl1zks6wkb4z612i9o&rid=giphy.gif&ct=g" width="35"></h1>
+<h1 align="center">	Light from here shall illuminate the multi-verses  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h1>
 
 ## Hi there 👋, I'm Vo Phu Vinh
 ### A freshman in the area of Information Technology
