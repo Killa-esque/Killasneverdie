@@ -1,6 +1,6 @@
 <p align="center"><img class= "center" src= "https://media3.giphy.com/media/yue5RmlTYopQHShVvM/giphy.gif" width= "200"></p>
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70">	Light from here shall illuminate the multi-verses  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70"></h1>
+<h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70">	Mission, Vision, Quality Policy  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=575&lines=Light+from+here+shall+illuminate+the+multi-verses"></a></p>
