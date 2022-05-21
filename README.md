@@ -1,5 +1,5 @@
 ![A freshman in the area of Information Technology](https://w.wallhaven.cc/full/j3/wallhaven-j355oy.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=610&height=110&lines=%22Light+from+here+shall+illuminate+the+entire+universe%22;Mission%2C+Vision%2C+Quality+Policy)](https://git.io/typing-svg)
+<p align="center"><img class= "center" src= "https://media3.giphy.com/media/yue5RmlTYopQHShVvM/giphy.gif" width= "200"></p>
 ## Hi there 👋, I'm Vo Phu Vinh
 ### A freshman in the area of Information Technology
 I'm from Vietnam, I'm trying to embark on my post-career. I would love to learn new things and try to reach my peak someday be able.
