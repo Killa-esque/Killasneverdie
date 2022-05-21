@@ -1,4 +1,4 @@
-<p align="center"><img class= "center" src= "https://media1.giphy.com/media/TjdjGJc9ti9RIFk0IJ/giphy.gif" width= "200"></p>
+<p align="center"><img class= "center" src= "https://media1.giphy.com/media/TjdjGJc9ti9RIFk0IJ/giphy.gif" width= "200"> <img class= "center" src= "https://media4.giphy.com/media/Ss6ZdRDOB4E5XfqCPI/giphy.gif?cid=ecf05e47la7ystbp87yw7nbkt86d1or8j4xh9g1rcbxbzx29&rid=giphy.gif&ct=s" width= "200"></p>
 
 <h1 align="center"> <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70">	Mission, Vision, Quality Policy  <img src="https://media0.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="70"></h1>
 
